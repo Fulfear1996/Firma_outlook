@@ -1,0 +1,59 @@
+body{
+    font-family:montserrat;
+    margin:0px;
+    font-size: 11pt;
+    font-weight:400;
+}
+div{
+    margin:0px;
+}
+img{
+    margin:0px;
+    padding: 0px;
+}
+table{
+    margin:0px;
+    border-spacing:0px;
+    padding:0px;
+
+}
+td{
+    margin:0px;
+    padding:0px;
+}
+span{
+    margin-left:5pt;
+    margin-right: 5pt;
+    color:#a5a9a7;
+    padding:0px;
+}
+.puesto{
+    color: #a5a9a7
+    padding:0px;
+}
+.logo{
+    height:100px;
+    widht:auto;
+    padding:10px;
+    margin:0px;
+}
+.nombre_completo{
+    font-size: 11pt;    
+    display:flex;
+    margin:1px 2px 0px 0px;
+    font-weight:500;
+    color:#002142;
+    padding:0px;
+}
+.zona_laboral{
+    display:flex;
+    margin:1px 2px 0px 0px;
+    color: #00aae4
+}
+.contacto{
+    margin:1px 2px 0px 0px;
+    color: #00aae4
+}
+
+
+
